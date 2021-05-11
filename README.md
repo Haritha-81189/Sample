@@ -1,3 +1,3 @@
 # Sample
 
-Welocome...... Have a Nice Day
+Welcome...... Have a Nice Day
